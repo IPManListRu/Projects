@@ -1,0 +1,46 @@
+body{
+    background-color: #93c8e9;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0em;
+    background-color:blueviolet;
+    font-size: large;
+    padding: 25px;
+}
+.about_my{
+    column-count: 3;
+    color: rgb(159, 53, 18);
+    font-family: 'Times New Roman';
+    font-size:larger;
+}
+.knowledge {
+    margin-left: 340px;
+    margin-bottom: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 20px;
+}
+.h1{
+    color: rgb(159, 53, 18);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px 220px;
+}
+.artycle{
+    font-style: italic;    
+}
+.text{
+
+    color: #2d48b4;
+    padding:10px 10px
+}
+.p{
+    border: 2px solid brown;
+    padding: 30px;
+    margin: 50px;
+}

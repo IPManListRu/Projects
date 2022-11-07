@@ -1,0 +1,1 @@
+<img src="Мой аватар.jpg" alt="Шрек" width="200px" height="200px">
